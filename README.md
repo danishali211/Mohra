@@ -2,11 +2,11 @@
 
 ![Example image](https://github.com/danishali211/Mohra/assets/80570840/72582ab2-b618-4f8f-aa6d-86fbad665c01)
 ![Example image](https://github.com/danishali211/Mohra/assets/80570840/a06edc72-cdda-4e10-b04c-8174815d9e54)
-## Getting started
+## App Links
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+Play-store Link: https://play.google.com/store/apps/details?id=app.mohraapp.com.android
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+App-store Link: https://apps.apple.com/us/app/mohra-app/id1660459382 
 
 ## Add your files
 
