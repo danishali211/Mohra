@@ -1,7 +1,7 @@
 # Mohra Mobile Application
 
-
-
+![Example image](https://github.com/danishali211/Mohra/assets/80570840/72582ab2-b618-4f8f-aa6d-86fbad665c01)
+![Example image](https://github.com/danishali211/Mohra/assets/80570840/a06edc72-cdda-4e10-b04c-8174815d9e54)
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
